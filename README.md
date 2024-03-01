@@ -1,3 +1,3 @@
 # QuoteInspector
 
-We will upload both the demo video and the Youtube link to this Repo soon. Stay tuned! 
+Please find the demo video via the Youtube link: https://www.youtube.com/watch?v=jwpYIyxYVPE. Thank you!
